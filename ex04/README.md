@@ -9,10 +9,10 @@ To study process creation, execution, and synchronization using Linux process sy
 • getppid()
 and to understand parent-child process relationships.
 
-## CONTEXT:
+## CONTEXT :
 A process is a program that is currently being executed. Linux allows a process to create another process (called a child process) and manage its execution.
 
-## Linux System Calls Used
+## LINUX SYSTEM CALLS USED :
 
 | System Call | Function |
 |---|---|
@@ -26,17 +26,17 @@ A process is a program that is currently being executed. Linux allows a process 
 **File 1:** [forkDemo.c](https://github.com/Balakrishna-0907/osLab/blob/02308af10f8158db6537d1865fd25b700ba3394c/ex01/exp1.c)
 **File 2:** [waitDemo.c]()
 
-## Compilation
+## COMPILATION :
 
 ```bash
 gcc prog1.c -o prog1
 ```
 
-## Execution
+## EXECUTION :
 
 ```bash
 ./prog1
 ```
 
 ## OUTPUT :
-![Output for Experiment 1](https://github.com/Balakrishna-0907/osLab/blob/74387e57436111278a81e61b66b0ac6f3d7f357c/ex01/output.png)
+![Output for Experiment 4](https://github.com/Balakrishna-0907/osLab/blob/74387e57436111278a81e61b66b0ac6f3d7f357c/ex01/output.png)
