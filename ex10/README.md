@@ -1,7 +1,7 @@
 # PROGRAM 10 : LINUX FILE PERMISSION AND FILE INFORMATION
 
 ## AIM :
-To study Linux file permissions and retrieve file metadata using stat() and related system calls.
+To study Linux file permissions and retrieve file metadata using `stat()` and related system calls.
 
 ## CONTEXT :
 **Metadata:** Metadata is data that describes another piece of data.
