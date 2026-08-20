@@ -33,7 +33,7 @@ gcc fileOperation.c -o fileOperation
 ## EXECUTION :
 
 ```bash
-./fileOperation.c
+./fileOperation
 ```
 
 ## OUTPUT :
