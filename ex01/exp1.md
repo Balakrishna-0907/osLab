@@ -38,5 +38,5 @@ gcc prog1.c -o prog1
 ```
 
 ## OUTPUT :
-![Output for Experiment 1](https://github.com/Balakrishna-0907/osLab/blob/f3931e567d620376c6c3c99eb7314aae842a2319/ex01/Output.png)
+![Output for Experiment 1](https://github.com/Balakrishna-0907/osLab/blob/74387e57436111278a81e61b66b0ac6f3d7f357c/ex01/output.png)
 
