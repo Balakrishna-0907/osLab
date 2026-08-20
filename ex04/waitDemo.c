@@ -57,7 +57,7 @@ int main()
 
 		printf("Child process completed\n");
 		printf("Parent Process ID : %d\n", getpid());
-		printf("Parent Process Resumed");
+		printf("Parent Process Resumed\n");
 	}
 
 	return 0;

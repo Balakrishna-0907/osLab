@@ -7,7 +7,7 @@ int main()
 	system("pwd");
 
 	printf("\nFiles\n");
-	system("ls -l");
+	system("ls -l"); 
 
 	printf("\nCreating Directory\n");
 	system("mkdir Demo");
