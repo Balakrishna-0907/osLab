@@ -1,10 +1,12 @@
-# PROGRAM 1: BASIC LINUX COMMANDS
+# PROGRAM 1 : BASIC LINUX COMMANDS
 
 ## AIM :
 To familiarize students with basic Linux commands for file, directory, and system management, compare them with equivalent DOS commands, and execute them in a Linux environment.
 
-## CONTEXT:
+## CONTEXT :
 This C program demonstrates how to execute Linux shell commands within a C program using the system() function (provided by <stdlib.h> library). 
+
+## SOME OF THE LINUX COMMANDS :
 
 | Command | Function | Example |
 |---|---|---|
@@ -25,16 +27,16 @@ This C program demonstrates how to execute Linux shell commands within a C progr
 ## SOURCE CODE :
 **File :** [exp1.c](https://github.com/Balakrishna-0907/osLab/blob/02308af10f8158db6537d1865fd25b700ba3394c/ex01/exp1.c)
 
-## Compilation
+## COMPILATION :
 
 ```bash
-gcc prog1.c -o prog1
+gcc exp1.c -o exp1
 ```
 
-## Execution
+## EXECUTION :
 
 ```bash
-./prog1
+./exp1
 ```
 
 ## OUTPUT :
