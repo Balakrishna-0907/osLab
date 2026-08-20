@@ -1,4 +1,4 @@
-# PROGRAM 3 : SIGNAL HANDLING IN LINUX
+# PROGRAM 5 : SIGNAL HANDLING IN LINUX
 
 ## AIM :
 To demonstrate inter-process communication using Linux signals and study signal generation, handling, and process synchronization using:
@@ -32,7 +32,7 @@ We explore, Signal: It is a software interrupt used by the Linux operating syste
 
 
 ## SOURCE CODE :
-**File :** [signal_raise.c](https://github.com/Balakrishna-0907/osLab/blob/83f875a513e85e4afe397fe52eb569c56e88207b/ex03/fileOperation.c)
+**File :** [signal_raise.c](https://github.com/Balakrishna-0907/osLab/blob/74e7988d227421bee56b7768c4814fccc1bb5d7c/ex05/signal_raise.c)
 
 ## COMPILATION :
 
