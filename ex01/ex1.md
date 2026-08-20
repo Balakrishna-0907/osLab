@@ -1,10 +1,10 @@
 # PROGRAM 1: BASIC LINUX COMMANDS
 
 ## AIM :
-&emsp; To familiarize students with basic Linux commands for file, directory, and system management, compare them with equivalent DOS commands, and execute them in a Linux environment.
+To familiarize students with basic Linux commands for file, directory, and system management, compare them with equivalent DOS commands, and execute them in a Linux environment.
 
 ## CONTEXT:
-&emsp; This C program demonstrates how to execute Linux shell commands within a C program using the system() function (provided by <stdlib.h> library). 
+This C program demonstrates how to execute Linux shell commands within a C program using the system() function (provided by <stdlib.h> library). 
 
 | Command | Function | Example |
 |---|---|---|
@@ -23,7 +23,7 @@
 | `cat` | Display file contents | `cat notes.txt` |
 
 ## SOURCE CODE :
-&emsp; **File :** [ex1.c](https://github.com/Balakrishna-0907/osLab/blob/main/osLabProg/ex01/ex1.c)
+**File :** [ex1.c](https://github.com/Balakrishna-0907/osLab/blob/main/osLabProg/ex01/ex1.c)
 
 ## OUTPUT :
-&emsp; ![Output for Experiment 1](https://github.com/Balakrishna-0907/osLab/blob/f3931e567d620376c6c3c99eb7314aae842a2319/ex01/Output.png)
+![Output for Experiment 1](https://github.com/Balakrishna-0907/osLab/blob/f3931e567d620376c6c3c99eb7314aae842a2319/ex01/Output.png)
