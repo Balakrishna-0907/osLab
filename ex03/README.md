@@ -22,7 +22,7 @@ This C program demonstrates the use of Linux system calls for performing file an
 
 
 ## SOURCE CODE :
-**File :** [fileOperation.sh](https://github.com/Balakrishna-0907/osLab/blob/7ee77bc721e862d39bc2301b0124f6964da1505a/ex02/checkfile.sh)
+**File :** [fileOperation.sh](https://github.com/Balakrishna-0907/osLab/blob/83f875a513e85e4afe397fe52eb569c56e88207b/ex03/fileOperation.c)
 
 ## Compilation
 
