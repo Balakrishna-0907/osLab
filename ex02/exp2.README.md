@@ -1,0 +1,39 @@
+# PROGRAM 1: SHELL SCRIPTING AND COMMAND-LINE ARGUMENTS
+
+## AIM :
+To develop shell scripts for performing basic arithmetic, file handling, decision making, loops, and command-line argument processing using the Bash shell.
+
+## CONTEXT:
+Shell scripting in Linux is the practice of writing a sequence of commands into a plain text file (extn:sh) to automate repetitive system tasks, configure environments, and manage software deployments. The file is interpreted line by line by a command-line interpreter known as a shell, with the GNU Bourne-Again Shell (Bash) being the most common default version across major Linux distributions.
+
+## Commands Used in Your Script
+
+| Command/Feature | Function |
+|---|---|
+| `echo` | Prints messages to the terminal. |
+| `wc -l` | Counts the number of lines in a file. |
+| `$#` | Returns the number of command-line arguments. |
+| `$@` | Represents all command-line arguments. |
+| `-f` | Checks whether the argument is a regular file. |
+| `-d` | Checks whether the argument is a directory. |
+| `for` | Iterates through each command-line argument. |
+| `if`, `elif`, `else` | Performs conditional execution. |
+
+## SOURCE CODE :
+**File :** [checkfile.sh]()
+
+## Compilation
+
+```bash
+chmod u+x checkfile.sh
+```
+
+## Execution
+
+```bash
+./checkfile.sh 
+```
+
+## OUTPUT :
+![Output for Experiment 1](https://github.com/Balakrishna-0907/osLab/blob/74387e57436111278a81e61b66b0ac6f3d7f357c/ex01/output.png)
+
