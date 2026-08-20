@@ -27,13 +27,13 @@ This C program demonstrates the use of Linux system calls for performing file an
 ## Compilation
 
 ```bash
-gcc file_operation.c -o file_operation.c
+gcc fileOperation.c -o fileOperation.c
 ```
 
 ## Execution
 
 ```bash
-./file_operation.c
+./fileOperation.c
 ```
 
 
