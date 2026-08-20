@@ -6,7 +6,7 @@ int main()
 	printf("Current Directory\n");
 	system("pwd");
 
-	printf("\nFiles\n");
+	printf("\nFiles details\n");
 	system("ls -l"); 
 
 	printf("\nCreating Directory\n");
