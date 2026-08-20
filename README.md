@@ -11,7 +11,7 @@ The programs cover fundamental Operating System concepts including Linux command
 
 ### 1. BASIC LINUX COMMANDS
 
-This program demonstrates the execution of basic Linux commands for working with directories and files.
+This program demonstrates the execution of basic Linux commands using c language.
 
 ---
 
