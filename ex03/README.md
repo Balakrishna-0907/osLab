@@ -3,10 +3,10 @@
 ## AIM :
 To implement basic file and directory operations using Linux system calls such as open(), read(), write(), close(), stat(), mkdir(), opendir(), and readdir().
 
-## CONTEXT:
+## CONTEXT :
 This C program demonstrates the use of Linux system calls for performing file and directory operations.
 
-## Linux System Calls Used
+## LINUX SYSTEM CALLS USED :
 
 | System Call | Function |
 |---|---|
@@ -24,18 +24,17 @@ This C program demonstrates the use of Linux system calls for performing file an
 ## SOURCE CODE :
 **File :** [fileOperation.c](https://github.com/Balakrishna-0907/osLab/blob/83f875a513e85e4afe397fe52eb569c56e88207b/ex03/fileOperation.c)
 
-## Compilation
+## COMPILATION :
 
 ```bash
 gcc fileOperation.c -o fileOperation
 ```
 
-## Execution
+## EXECUTION :
 
 ```bash
 ./fileOperation.c
 ```
-
 
 ## OUTPUT :
 ![Output for Experiment 3](https://github.com/Balakrishna-0907/osLab/blob/4b613f0f6f32125e40dce4d580984758b52d3cf8/ex03/output.png)
