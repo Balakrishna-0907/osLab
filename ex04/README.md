@@ -23,8 +23,8 @@ A process is a program that is currently being executed. Linux allows a process 
 | `sleep()` | Suspends the execution of the current process for the specified number of seconds. *(Library function that internally uses kernel timing services; often included in OS labs.)* |
 
 ## SOURCE CODE :
-**File 1:** [forkDemo.c](https://github.com/Balakrishna-0907/osLab/blob/02308af10f8158db6537d1865fd25b700ba3394c/ex01/exp1.c)
-**File 2:** [waitDemo.c]()
+**File 1:** Process Creation - [forkDemo.c]()
+**File 2:** Process Management - [waitDemo.c]()
 
 ## COMPILATION :
 
