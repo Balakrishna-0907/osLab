@@ -73,9 +73,9 @@ This program retrieves and displays Linux file metadata such as file size, inode
 
 | Program No. | Program Title | Aim of Program |
 |---|---|---|
-| 1 | [BASIC LINUX COMMANDS](./exp1.md) | To familiarize students with basic Linux commands for file, directory, and system management, compare them with equivalent DOS commands, and execute them in a Linux environment. |
-| 2 | [SHELL SCRIPTING AND COMMAND-LINE ARGUMENTS](./exp2.md) | To develop shell scripts for performing basic arithmetic, file handling, decision making, loops, and command-line argument processing using the Bash shell. |
-| 3 | [LINUX FILE AND DIRECTORY OPERATIONS USING C SYSTEM CALLS](./exp3.md) | To implement basic file and directory operations using Linux system calls such as `open()`, `read()`, `write()`, `close()`, `stat()`, `mkdir()`, `opendir()`, and `readdir()`. |
+| 1 | [BASIC LINUX COMMANDS](https://github.com/Balakrishna-0907/osLab/blob/5eb900b71cab77ba7090602fa5c590282dc950ef/ex01/README.md) | To familiarize students with basic Linux commands for file, directory, and system management, compare them with equivalent DOS commands, and execute them in a Linux environment. |
+| 2 | [SHELL SCRIPTING AND COMMAND-LINE ARGUMENTS](https://github.com/Balakrishna-0907/osLab/blob/5eb900b71cab77ba7090602fa5c590282dc950ef/ex02/README.md) | To develop shell scripts for performing basic arithmetic, file handling, decision making, loops, and command-line argument processing using the Bash shell. |
+| 3 | [LINUX FILE AND DIRECTORY OPERATIONS USING C SYSTEM CALLS](https://github.com/Balakrishna-0907/osLab/blob/5eb900b71cab77ba7090602fa5c590282dc950ef/ex03/README.md) | To implement basic file and directory operations using Linux system calls such as `open()`, `read()`, `write()`, `close()`, `stat()`, `mkdir()`, `opendir()`, and `readdir()`. |
 | 4 | [PROCESS CREATION AND MANAGEMENT USING LINUX SYSTEM CALLS](./exp4.md) | To study process creation, execution, and synchronization using Linux process system calls and understand parent-child process relationships. |
 | 5 | [SIGNAL HANDLING IN LINUX](./exp5.md) | To demonstrate inter-process communication using Linux signals and study signal generation, handling, and process synchronization. |
 | 6 | [INTER-PROCESS COMMUNICATION USING PIPES AND FIFO](./exp6.md) | To implement inter-process communication using unnamed pipes and named pipes/FIFO and exchange data between processes. |
