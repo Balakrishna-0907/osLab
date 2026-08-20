@@ -1,4 +1,4 @@
-# PROGRAM 1: SHELL SCRIPTING AND COMMAND-LINE ARGUMENTS
+# PROGRAM 2: SHELL SCRIPTING AND COMMAND-LINE ARGUMENTS
 
 ## AIM :
 To develop shell scripts for performing basic arithmetic, file handling, decision making, loops, and command-line argument processing using the Bash shell.
