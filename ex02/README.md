@@ -3,10 +3,10 @@
 ## AIM :
 To develop shell scripts for performing basic arithmetic, file handling, decision making, loops, and command-line argument processing using the Bash shell.
 
-## CONTEXT:
+## CONTEXT :
 Shell scripting in Linux is the practice of writing a sequence of commands into a plain text file (extn:sh) to automate repetitive system tasks, configure environments, and manage software deployments. The file is interpreted line by line by a command-line interpreter known as a shell, with the GNU Bourne-Again Shell (Bash) being the most common default version across major Linux distributions.
 
-## Commands Used in Your Script
+## COMMANDS USED IN YOUR SCRIPT :
 
 | Command/Feature | Function |
 |---|---|
@@ -22,7 +22,7 @@ Shell scripting in Linux is the practice of writing a sequence of commands into 
 ## SOURCE CODE :
 **File :** [checkfile.sh](https://github.com/Balakrishna-0907/osLab/blob/7ee77bc721e862d39bc2301b0124f6964da1505a/ex02/checkfile.sh)
 
-## HOW TO CREATE
+## HOW TO CREATE :
 
 ```bash
 Step 1: nano checkfile.sh 
@@ -31,7 +31,7 @@ Step 3: To save: ctrl+o and press enter
 Step 4: To exit: ctrl+x 
 ```
 
-## Execution
+## EXECUTION :
 
 ```bash
 Step 1: chmod u+x checkfile.sh 
