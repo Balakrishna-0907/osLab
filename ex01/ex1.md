@@ -25,5 +25,10 @@ This C program demonstrates how to execute Linux shell commands within a C progr
 ## SOURCE CODE :
 **File :** [exp1.c](https://github.com/Balakrishna-0907/osLab/blob/02308af10f8158db6537d1865fd25b700ba3394c/ex01/exp1.c)
 
+## HOW TO EXECUTE :
+**Compile (in Terminal):** gcc exp1.c -o exp1
+**Run:** ./exp1
+
 ## OUTPUT :
 ![Output for Experiment 1](https://github.com/Balakrishna-0907/osLab/blob/f3931e567d620376c6c3c99eb7314aae842a2319/ex01/Output.png)
+
