@@ -22,16 +22,20 @@ Shell scripting in Linux is the practice of writing a sequence of commands into 
 ## SOURCE CODE :
 **File :** [checkfile.sh](https://github.com/Balakrishna-0907/osLab/blob/7ee77bc721e862d39bc2301b0124f6964da1505a/ex02/checkfile.sh)
 
-## Compilation
+## HOW TO CREATE
 
 ```bash
-chmod u+x checkfile.sh
+**Step 1:** nano checkfile.sh 
+**Step 2:** Paste the code given above
+**Step 3:** To save: ctrl+o and press enter 
+**Step 4:** To exit: ctrl+x 
 ```
 
 ## Execution
 
 ```bash
-./checkfile.sh 
+**Step 1:** chmod u+x checkfile.sh 
+**Step 2:** ./checkfile.sh file1.txt testdir sample.txt
 ```
 
 ## OUTPUT :
