@@ -24,7 +24,7 @@ A process is a program that is currently being executed. Linux allows a process 
 
 ## SOURCE CODE :
 **File 1:** Process Creation - [forkDemo.c](https://github.com/Balakrishna-0907/osLab/blob/64e00ef5514d1697cd763bd60e1bb2445cc5b9a8/ex04/ProcessCreation/forkDemo.c)
-**File 2:** Process Management - [waitDemo.c]()
+**File 2:** Process Management - [waitDemo.c](https://github.com/Balakrishna-0907/osLab/blob/b54d9fc39792c3c0cedaf8d0b8edb331c6f6618b/ex04/ProcessManagement/waitDemo.c)
 
 ## COMPILATION :
 
