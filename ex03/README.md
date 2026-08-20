@@ -1,7 +1,7 @@
 # PROGRAM 3 : LINUX FILE AND DIRECTORY OPERATIONS USING C SYSTEM CALLS
 
 ## AIM :
-To implement basic file and directory operations using Linux system calls such as open(), read(), write(), close(), stat(), mkdir(), opendir(), and readdir().
+ To implement basic file and directory operations using Linux system calls such as `open()`, `read()`, `write()`, `close()`, `stat()`, `mkdir()`, `opendir()`, and `readdir()`. 
 
 ## CONTEXT :
 This C program demonstrates the use of Linux system calls for performing file and directory operations.
