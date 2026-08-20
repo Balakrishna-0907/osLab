@@ -1,4 +1,4 @@
-# PROGRAM 8 : CPU SCHEDULING ALGORIHTHMS
+# PROGRAM 8 : CPU SCHEDULING ALGORITHMS
 
 ## AIM :
 To simulate CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin) and compare their performance. Students can evaluate waiting time, turnaround time, and scheduling efficiency (Process management)
